@@ -39,8 +39,7 @@
 "Encapto","encapto.com","","RMM","","Host","Network/connectivity management","?","?","?","?","?"
 "Ericom AccessNow","ericom.com","accessserver.exe","RMM","","Host","Web-based RDP/remote solution","Common in terminal services deployments","accessserver.exe","?","?","?"
 "Ericom Connect","ericom.com","ericomconnnectconfigurationtool.exe","RMM","","Host","Remote access & virtualization","Part of Ericom's remote solutions suite","ericomconnnectconfigurationtool.exe","?","?","?"
-"ESET Remote Administrator","eset.com/me/business/remote-management/remote-administrator/","era.exe,ezhelp*.exe,eratool.exe","RMM","",
-"Host","Endpoint security management","Also has remote admin functionalities","era.exe,ezhelp*.exe,eratool.exe","?","?","?"
+"ESET Remote Administrator","eset.com/me/business/remote-management/remote-administrator/","era.exe,ezhelp*.exe,eratool.exe","RMM","","Host","Endpoint security management","Also has remote admin functionalities","era.exe,ezhelp*.exe,eratool.exe","?","?","?"
 "ezHelp","ezhelp.co.kr","ezhelpclient.exe,ezhelpclientmanager.exe","RMM","","Host","Remote support software","Primarily used in Korean market","ezhelpclient.exe,ezhelpclientmanager.exe","?","?","?"
 "FastViewer","fastviewer.com","fastclient.exe,fastmaster.exe","RMM","","Host","Cloud-based screen sharing","Used for remote support and collaboration","fastclient.exe,fastmaster.exe","?","?","?"
 "FixMe.it","fixme.it","fixmeitclient.exe","RMM","","Host","Browser-based remote support","Lightweight client for remote sessions","fixmeitclient.exe","?","?","?"
