@@ -12,8 +12,7 @@
 "Auvik","auvik.com","auvik.agent.exe,auvik.engine.exe","RMM","","Host","Network monitoring & remote management","Primarily for MSP network oversight","auvik.agent.exe,auvik.engine.exe","?","?","?"
 "Barracuda","barracudamsp.com","","RMM","","Host","RMM platform","Tool for MSP remote support","?","?","?","?"
 "Basecamp","basecamp.com","","RMM","","Management","Collaboration or project management tool","May have remote features but not typical RDP","?","?","?","?"
-"BeamYourScreen","beamyourscreen.com","beamyourscreen.exe,beamyourscreen-host.exe","RMM","",
-"Host","Screen-sharing service","For remote demos and presentations","beamyourscreen.exe,beamyourscreen-host.exe","?","?","?"
+"BeamYourScreen","beamyourscreen.com","beamyourscreen.exe,beamyourscreen-host.exe","RMM","","Host","Screen-sharing service","For remote demos and presentations","beamyourscreen.exe,beamyourscreen-host.exe","?","?","?"
 "BeAnywhere","beanywhere.en.uptodown.com/windows","basupsrvc.exe,basupsrvcupdate.exe,basuptshelper.exe","RMM","","Host","Cloud-based remote support","Used by IT for remote help","basupsrvc.exe,basupsrvcupdate.exe,basuptshelper.exe","?","?","?"
 "Bomgar","beyondtrust.com/brand/bomgar","bomgar-scc.exe","RMM","","Host","Enterprise remote support","Trusted vendor for secure remote sessions","bomgar-scc.exe","?","?","?"
 "CentraStage (Now Datto)","datto.com/au/products/rmm/","CagService.exe","RMM","","Host","RMM agent","Formerly CentraStage, now Datto RMM","CagService.exe","?","?","?"
