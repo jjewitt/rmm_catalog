@@ -137,4 +137,3 @@ Weezo,RMM,,Host,Home web hosting & remote access,,"weezo.exe,weezohttpd.exe",,,w
 XEOX,RMM,,Host,Server/patch management tool,Windows patching & endpoint mgmt,xeox-agent_x64.exe,,,xeox.com
 ZeroTier,RMM,,Host,P2P virtual network solution,Creates mesh VPN for remote access,,,,zerotier.com
 Zoho Assist,RMM,,Host,Cloud-based remote support,Part of Zoho suite,"za_connect.exe,zaservice.exe,zohotray.exe",,,zoho.com/assist/
-Zoom,RMM,,Both,
