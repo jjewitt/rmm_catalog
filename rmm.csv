@@ -131,9 +131,10 @@ TeleDesktop,RMM,,Both,Remote desktop & tele-support,,"pstlaunch.exe,ptdskclient.
 ToDesk,RMM,,Host,Remote desktop tool (China-based),Increasingly popular alternative,todesk.exe,,,todesktop.com
 TurboMeeting,RMM,,Host,Web conferencing & remote control,,"pcstarter.exe,turbomeeting.exe,turbomeetingstarter.exe",,,acceo.com/turbomeeting/
 Ultraviewer,RMM,,Host,VNClike remote software from Vietnam,Common for personal support,"ultraviewer.exe,ultraviewer_desktop.exe,ultraviewer_service.exe",,,ultraviewer.net
-VNC,Remote Access,,Both,VNC-based remote desktop,"Open standard, many variants","vncserver.exe,vncserverui.exe,vncviewer.exe,winvnc*.exe",,,realvnc.com/en/connect/download/vnc
+VNC,Remote Access,,Both,VNC-based remote desktop,"Open standard, many variants","vncserver.exe,vncserverui.exe,winvnc*.exe",,,realvnc.com/en/connect/download/vnc
 WebRDP,RMM,,Host,Web-based RDP gateway,,webrdp.exe,,,github.com/Mikej81/WebRDP
 Weezo,RMM,,Host,Home web hosting & remote access,,"weezo.exe,weezohttpd.exe",,,weezo.en.softonic.com
 XEOX,RMM,,Host,Server/patch management tool,Windows patching & endpoint mgmt,xeox-agent_x64.exe,,,xeox.com
 ZeroTier,RMM,,Host,P2P virtual network solution,Creates mesh VPN for remote access,,,,zerotier.com
 Zoho Assist,RMM,,Host,Cloud-based remote support,Part of Zoho suite,"za_connect.exe,zaservice.exe,zohotray.exe",,,zoho.com/assist/
+Zoom,RMM,,Both,
